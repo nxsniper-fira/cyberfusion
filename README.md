@@ -11,7 +11,7 @@ It provides role-based dashboards, tool launching, chat, scheduling, analytics, 
 
 ### 1. Clone and Setup
 ```bash
-git clone <your-repo-url> cyberfusion
+git clone https://github.com/nxsniper-fira/cyberfusion.git
 cd cyberfusion
 ```
 
